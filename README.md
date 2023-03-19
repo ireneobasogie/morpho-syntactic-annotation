@@ -1,5 +1,7 @@
 # morpho-syntactic-annotation
 
+A project by Irene Roseline Obasogie (Eirini Rozalia Ompasogkie), Marina Seghier, Doruntina Fazliu and Regina Costa.
+
 **Morpho-Syntactic Annotation Project**
 
 As part of the "Corpus Enrichment" course, we carried out a morpho-syntactic annotation project on an article about "Game Of Thrones characters and their Pokémon counterparts" (https://www.crumpe.com/).
