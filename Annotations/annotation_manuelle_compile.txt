@@ -1,0 +1,1194 @@
+les [le] ART
+personnages [personnage] N 
+de [de] PRP
+game of Thrones [game=of=Thrones] PROP
+et [et] KC 
+leurs [leur] DET 
+homologues [homologue] N 
+pokémon [Pokémon] PROP 
+regarder [regarder] V 
+en [en] PRP
+rafale [rafale] N 
+jeu [jeu] N
+des [des] ART
+trônes [trône] N
+et [et] KC
+jouer [jouer] V
+le [le] ART
+nouveau [nouveau] ADJ
+pokémon [Pokémon] PROP
+jeu [jeu] N
+simultanément [simultanément] ADV 
+peut [pouvoir] V
+entraîner [entraîner] V
+d [d] DET
+étranges [étrange] ADJ 
+rêves [rêve] N
+de [de] PRP
+fièvre [fièvre] N
+jon Snow [Jon=Snow] PROP
+aurait [avoir] V
+il [il] PRON
+pu [pouvoir] V
+combattre [combattre] V
+seul [seul] ADJ
+le [le] ART
+roi [roi] N 
+de [de] PRP
+la [le] ART
+nuit [nuit] N
+s' [se] KS
+il [il] PRON
+était [être] V
+un [un] ART
+maître [maître] N 
+pokémon [Pokémon] PROP
+ash ketchum [Ash=Ketchum] PROP
+aurait [avoir] V
+il [il] PRON
+encore [encore] ADV 
+10 [10] NUM
+ans [an] N
+après [après] PRP 
+huit [huit] NUM
+saisons [saison] N 
+de [de] PRP
+trônes [trône] N 
+probablement [probablement] ADV 
+pas [pas] ADV
+bien que [bien=que] KS
+les [le] ART
+deux [deux] NUM
+franchises [franchise] N
+aient [avoir] V
+peu [peu] ADV
+de [de] PRP
+choses [chose] N
+en [en] PRP 
+commun [commun] ADJ 
+elles [elle] PRON
+sont [être] V 
+toutes [tout] ADJ
+les [le] ART
+deux [deux] NUM
+suffisamment [suffisamment] ADV 
+populaires [populaire] ADJ
+pour [pour] PRP
+qu' [qu'] KS
+il [il] PRON
+y [y] PRON
+ait [avoir]  V
+un [un] ART
+certain [certain] ADJ
+chevauchement [chevauchement] N 
+parmi [parmi] PRP
+leurs [leur] DET 
+fans [fan] N
+ce [ce] PRON
+sont [être] V
+aussi [aussi] ADV
+des [des] ART
+trucs [truc] N 
+célèbres [célèbre] ADJ 
+avec [avec] PRP 
+une [un] ART
+abondance [abondance] N
+de [de] PRP
+personnages [personnage]  N 
+différents [différent] ADJ 
+il [il] PRON
+n' [ne] ADV
+est [être] V
+donc [donc] ADV 
+pas [pas] ADV
+si [si] KS
+difficile [difficile] ADJ
+de [de] PRP
+trouver [trouver] V
+des [des] ART
+personnages [personnage] N
+similaires [similaire] ADJ 
+entre [entre] PRP 
+eux [lui] PRON
+daenerys [Daenerys=Targaryen] PROP
+dracaufeu [Dracaufeu] PROP
+il [il] PRON
+semblait [sembler] V 
+évident [évident] ADJ 
+que [que] KS
+le [le] ART
+principal [principal] ADJ
+représentant [représentant] N
+de [de] PRP 
+la [le] ART
+maison [maison] N 
+targaryen [Targaryen] PROP
+devrait [devoir] V 
+être [être] V 
+un [un] ART
+pokémon [Pokémon] PROP
+qui [qui] PRON
+ressemble [ressembler] V
+à [à] PRP
+un [un] ART
+dragon [dragon] N 
+et [et] KC
+qui [qui] PRON
+mieux [mieux] ADV 
+que [que] KS 
+l' [le] ART
+allume-feu [allume-feu] N 
+gen [Gen] PROP
+I [I] NUM 
+préféré [préférer] V 
+des [des] ART
+fans [fan] N 
+charizard [charizard] PROP
+charizard [Charizard] PROP
+est [être] V 
+bien-aimé [bien-aimé] ADJ 
+non [non] ADV
+seulement [seulement] ADV
+dans [dans] PRP
+les [le] ART
+jeux [jeu] N
+mais [mais] KC
+aussi [aussi] ADV
+dans [dans] PRP
+l' [le] ART
+anime [anime] N
+au [à+le] ART
+début [début] N 
+des [des] ART
+saisons [saison] N
+il [il] PRON
+était [être] V 
+connu [connaître] V 
+pour [pour] PRP
+être [être] V
+indiscipliné [indiscipliné] ADJ 
+et [et] KC
+irrationnel [irrationnel] ADJ 
+comme [comme] KC 
+daenerys [Daenerys] PROP
+dans [dans] PRP
+la [le] ART
+saison [saison] N 
+8 [8] NUM 
+l' [le] ART
+une [un] ART
+des [des] ART
+scènes [scène] N
+les [le] ART
+plus [plus] ADV
+emblématiques [emblématique] ADJ 
+de [de] PRP 
+daenerys [Daenerys] PROP
+étant [être] V
+sa [son] DET
+sortie [sortie] N
+de [de] PRP
+le [le] ART
+feu [feu] N 
+avec [avec] PRP 
+son [son] DET
+trio [trio] N 
+de [de] PRP
+bébés [bébé] N
+dragons [dragon] N
+à [à] PRP
+la [le] ART
+fin [fin] N
+de [de] PRP
+la [le] ART
+première [premier] ADJ
+saison [saison] N 
+un [un] ART
+pokémon [Pokémon] PROP
+de [de] PRP
+type [type] N 
+feu [feu] N 
+semblait [sembler] V 
+être [être] V 
+la [le] ART
+meilleure [meilleur] ADJ 
+option [option] N
+jon Snow [Jon=Snow] PROP
+lucario [Lucario] N
+lucario [Lucario] N 
+était [être] V 
+l' [le] ART
+un [un] ART
+des [des] ART
+pokémon [pokémon] PROP
+les [le] ART
+plus [plus] ADV
+populaires [populaire] ADJ 
+de [de] PRP 
+la [le] ART
+génération [génération] N 
+iv [IV] NUM 
+et [et] KC 
+pour [pour] PRP 
+une [une] ART
+bonne [bon] ADJ
+raison [raison] N 
+semblable [semblable] ADJ
+à [à] PRP 
+jon [Jon=Snow] PROP
+lucario [Lucario] PROP
+est [être] V 
+souvent [souvent] ADV 
+décrit [décrire] V 
+comme [comme] PRP
+un [un] ART
+loup [loup] N 
+solitaire [solitaire] ADJ 
+et [et] KC
+est [être] V 
+très [très] ADV
+puissant [puissant] ADJ 
+le [le] ART
+design [design] N
+de [de] PRP 
+lucario [Lucario] N 
+semble [sembler] V 
+également [également] ADV 
+ressembler [ressembler] V 
+à [à] PRP 
+un [un] ART
+loup [loup] N 
+correspondant [correspondre] V 
+parfaitement [parfaitement] ADV 
+à [à] PRP 
+la [le] ART
+lignée [lignée] N 
+de [de] PRP 
+jon's [Jon's] PROP
+house [House] N
+Stark [Stark] PROP
+
+Comme [comme] PRP
+Jon Snow [Jon Snow] PROP
+qui [qui] PRON
+n' [ne] ADV
+a [avoir] V
+jamais [jamais] ADV
+cherché [chercher] V
+à [à] PRP
+être [être] V
+reconnu [reconnaître] V
+pour [pour] PRP
+ses [son] DET
+efforts [effort] N
+Lucario  [Lucario] PROP
+est  [être] V
+L’ [le] ART
+un [un] ART
+des  [des] ART
+héros [héros]  N
+les  [le]  ART
+plus [plus] ADV
+silencieux [silencieux] ADJ
+de [de] PRP
+la [le] ART
+franchise  [franchise]  N
+Pokémon [Pokémon] PROP
+Dans [dans] PRP
+Pokémon [Pokémon] PROP
+Lucario [Lucario] PROP
+et [et] KC
+le  Mystère de Mew [le mystère de Mew ] N 
+Lucario [Lucario] PROP
+est [être] V
+décrit [décrire] V
+comme [comme] KC
+extrêmement [extrêmement] ADV
+loyal [loyal] ADJ
+désintéressé [désintéressé] ADJ
+et [et] KC
+héroïque [héroïque] ADJ
+tout [tout] ADV
+comme [comme] PRP
+le [le] ART
+bien-aimé [bien-aimé] N
+Jon Snow [Jon Snow] PROP
+Sandor Clegane [Sandor Clegane] PROP
+houndour [Houndour] PROP
+Houndour [Houndour] PROP
+de [de] PRP
+la [le] ART
+génération [génération] N
+II [II] NUM
+qui [qui] PRON
+était [être] V
+L' [le] ART
+un [l'un] ART
+des [de] ART
+premiers [premier] N
+types[type] N
+sombres [sombre] ADJ
+possède [posséde] V
+L’[le] ART
+un [l'un] ART
+des [de] ART
+designs [design] N
+les [le] ART
+plus [plus] ADV
+cool [cool] ADJ
+en [en] PRP
+forme [forme] N
+de [de] PRP
+chien [chien] N
+parmi [parmi] PRP
+les [le] ART
+Pokémon [Pokémon] N
+Contrairement [contrairement] ADV
+à [à] PRP
+de [un] PRP
+nombreux [nombreux] ADJ
+autres [autre] ADJ
+chiens [chiens] N
+tels [tel] DET
+que [que] KS
+Ninetales - ADJ
+et [et] KC
+les [le] art
+Eevees [Eevees] N
+Houndour [Houndour] N
+a [avoir] V
+une [un] ART
+apparence [apparence] N
+beaucoup [beaucoup] ADV
+moins [moins] ADV
+majestueuse [majestueux] ADJ
+et [et] KC
+amicale [amical] ADJ
+ce [ce] DET 
+qui [qui] PRON
+en [en]  PRP 
+fait [faire] V
+le [le] ART
+compagnon [compagnon] N
+idéal [idéal] ADJ
+pour [pour] PRP
+Jeu [jeu] N
+des [de] PRP
+trônes‘ [trônes‘] N
+Sandor Clegane [Sandor Clegane] PROP
+surnommé [surnommer] V
+the hound [the hound ] N
+Houndour [Houndour] PROP
+a [avoir] V
+été [être] V
+choisi [choisi] V
+parmi [parmi] PRP
+les [le] ART
+évolués [évolué] V
+Houndoom  [Houndoom] PROP
+pour [pour] PRP
+représenter [représenter] V
+la [le] ART
+suppression [suppression] N
+de [de] PRP
+Sandor - PROP
+en [en] PRP 
+raison [raison] N 
+de [de] PRP 
+la [le] ART
+torture [torture] N
+de [de] PRP
+son [son] DET
+frère [frère] N
+aîné [aîné] ADJ
+dans [dans] PRP
+son [son] DET
+enfance [enfance] N
+qui [qui] PRON
+hante [hanter] V
+le [le] ART
+héros [héros] N
+improbable [improbable] ADJ
+tout [tout] INDP
+au [à+le] ART
+long [long] N
+de [de]PRP 
+la [le] ART
+série [série] N
+Cersei  Lannister [Cersei  Lannister] PROP
+Persan [persan] ADJ
+Lorsque [lorsque] ADV
+l' [le] ART
+on [on] PRON
+considère [considérer] V
+un [un] det
+Pokémon  [Pokémon] PROP
+avec [avec] PRP
+une [un] ART
+apparence [apparence] N
+extérieure [extérieur] ADJ
+de [de] PRP
+royauté [royauté] N
+associée [associer] V
+à [à] PRP
+une [un] ART
+personnalité [personnalité] N
+sournoise [sournois] adj
+le [le] ART
+persan [persan] N
+est [être] V
+venu [venir] V
+à [à] PRP
+l' [le] ART
+esprit [esprit] N
+Peut-être [peut-être] ADV
+est [être] V
+-ce [ce] S
+dû [devoir] N
+à [à] PRP
+l' [le] ART
+association [association] N
+avec [avec] PRP
+Team rocket [team rocket] N
+boss giovanni[Boss Giovanni] PROP
+qu' [que] N
+il [il] PRON
+semblait [semble] V
+si [si] KS
+juste [juste] ADJ
+d' [de] ADJ
+être [être] V
+comparaison [comparaison] N
+de [de] PRP
+Cersei Lannister[Cersei Lannister] PROP
+bien que [bien que] KS
+House Lannister [House Lannister] PROP
+soit [être] V
+beaucoup [beaucoup] ADV
+plus [plus] ADV
+complexe [complexe] ADJ
+que [que] KS
+les [le] ART
+méchants [méchant] N
+de [de] PRP
+la [le] ART
+bande dessinée [B.D.] N
+de [de] PRP
+Team rocket  [team rocket] N
+ils [ils] PRON
+ont [avoir] V
+leurs [son] DET
+moments [moment] N
+de [de] PRP
+comportement [comportement] N
+ignoble [ignoble] ADJ
+Cersei [ Cersei ] PROP
+en [en] PRP 
+dépit [dépit]N 
+d [d] ADJ
+être [être] V
+l' [le] ART
+une [une] ART
+des [de] ART
+forces [force] N
+les [le] ART
+plus [plus] ADV
+malveillantes [malveillant] ADJ
+de [de] PRP
+Jeu [jeu] N
+des [de+le] ART
+trônes [trône] N
+garde [garde] N
+une [un] ART
+présence [présence] N
+indéniablement [indéniablement] ADV
+royale [royal] N
+à travers [à travers] PRP
+la [le] ART
+plupart [plupart] N
+de [de] PRP
+ses [son] DET
+apparitions [apparition] N
+publiques [public] ADJ
+Le [le] ART
+roi  [roi] N
+de  [de] PRP
+la [le] ART
+nuit [nuit] N 
+Suicune [Suicune] prop
+bien que [bien que] KS
+les [le] ART
+deux[deux] NUM
+aient [avoir] V
+des [un] ART
+pouvoirs [pouvoir] N
+différents [différent] ADJ
+Suicune [Suicune] N 
+et [et] KC
+le [le] ART
+roi [roi] N
+de [de] PRP
+la [le] ART
+nuit [nuit] N
+partageaient [partager] V
+un [un] ART
+statut [statut] N
+impérial [impérial] ADJ
+glacé [glacé] ADJ
+Suicune [Suicune] PROP
+étant [être] V
+un [un] ART
+Pokémon [Pokémon] PROP
+légendaire [légendaire] ADJ
+et [et] KC
+the night king [The Night King]PROP
+étant [être] V
+une [un] ART
+figure [figure] V
+légendaire [légendaire] ADJ
+du [de] ART
+monde [monde] N
+de [de] PRP
+Westeros - PROP
+en [en] PRP
+font [faire] V
+une [un] ART
+comparaison [comparaison] N
+intéressante [intéressant] ADJ
+
+le [le] ART
+légendaire [légendaire] N 
+entei [Entei]  PROP
+se [se] PRON
+compare [comparer] V 
+au [à+le] ART
+patriarche [patriarche] M 
+de [de]PREP
+la [la] ART
+famille [famille] N 
+lannister [Lannister] PROP
+de [de] PRP 
+la [le] ART 
+même [même] DET 
+manière [manière] N 
+que [que] KS
+suicune [Suicune] PROP
+et [et] KC 
+the Night King [The=Night=King] PROP
+bien que [bien=que] KS
+tywin  [Tywin=Lannister] PROP
+ne [ne]ADV 
+soit [être] V
+pas [pas] ADV 
+une [une] ART 
+figure [figure] N
+mythologique [mythologique] ADJ 
+comme [comme] PRP 
+the Night King [The=Night=King] PROP,
+il [il] PRON 
+a [avoir] V 
+une [une] ART 
+présence [présence] N 
+dominante [dominant] ADJ 
+comme [comme] PRP 
+le [le] ART 
+ferait [faire] V 
+un [un]ART 
+pokémon [Pokémon=légendaire] PROP
+entei [Entei] PROP
+existe [exister] V 
+dans [dans] PRP 
+la [le]ART 
+région [région] N 
+de [de] PRP 
+johto [Johto] PROP
+comme [comme] PRP 
+l' [le] ART 
+un [un] ART  
+des [de+le] ART
+chiens [chien=légendaire] N 
+,
+mais [mais] KC 
+a [avoir] V
+une [une] ART 
+personnalité [personnalité] N 
+beaucoup [beaucoup] ADV 
+plus [plus] ADV
+bourrue [bourru] ADJ 
+que [que] KS
+suicune [Suicune] PROP
+entei [Entei] PROP
+est [être] V 
+peut- être[pouvoir=etre] ADV
+un [un]ART 
+chien [chien] N 
+,
+mais [mais] KC 
+sa [son] DET 
+structure [structurer] V 
+pl [pl] N
+suicune [Suicune] PROP
+n' [ne] ADV 
+est [être] V 
+pas [pas] ADV 
+communément [communément] ADV 
+connu [connaître] V 
+comme [comme] PRP 
+un [un] ART 
+méchant [méchant] N 
+comme [comme] PRP 
+the Night King [The=Night=King] PROP
+,
+mais [mais] KC 
+son [son] DET 
+statut [statut] N 
+mystique [mystique] ADJ 
+le [le] ART 
+rendrait [rendre] V 
+tout [tout] ADJ 
+aussi [aussi] ADV 
+effrayant [effrayant] ADJ 
+à [à] PRP 
+trébucher [trébucher] V 
+fans [fan] N 
+de [de] PRP
+Pokémon [Pokémon=4Ever N 
+se [se] PERS 
+souviendra [souvenir] V
+de [de] PRP
+la [le] ART 
+puissante [puissant] ADJ 
+présence [présence] N 
+de [de] PRP 
+suicune [Suicune] PROP
+à [à] PRP 
+l' [le] ART 
+écran [écran] N 
+le roi de la nuit [le=roi=de=la=nuit] PROP
+a [avoir] V 
+attiré [attirer] V 
+la [le] ART 
+même [même] DET 
+attention [attention] N 
+pour [pour] PRP 
+trônes [trône] N 
+ventilateurs [ventilateur] N 
+le roi de la nuit [le=roi=de=la=nuit] PROP
+était [être] V 
+considéré [considérer] V 
+comme [comme] PRP 
+l' [le] ART 
+un [un] ADJ
+des (de+le) ART
+meilleurs [meilleur] N 
+méchants [méchant] ADJ 
+de [de]PREP
+la [la] ART
+série [série]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tywin Lannister [Tywin=Lannister] PROP
+/
+enteï [Enteï] PROP
+us [us] N 
+large [large] ADJ
+,
+sa [son] DET 
+crinière [crinière] N
+fluide [fluide] ADJ 
+et [et] KC
+ses [son] DET 
+traits [trait] N 
+faciaux [facial] ADJ 
+en [en] PRP
+forme [forme] N
+de [de] PRP
+couronne [couronne] N 
+lui [lui] PRON
+donnent [donner] V 
+une [une] ART 
+apparence [apparence] N
+de [de] PRP
+lion [lion] N 
+convient [convier] V 
+pour [pour] PRP
+le [le] ART 
+sceau [sceau] N 
+de [de] PRP
+le [le] ART 
+lion [lion] N 
+d' [d'] N 
+or [or] N 
+de [de] PRP
+la [le] ART 
+maison [maison] N 
+lannister [Lannister] PROP
+tywin [Tywin] PROP
+était [être] V 
+considéré [considérer] V 
+comme [comme] PRP
+l' [le] ART 
+un [un] ART 
+des [des] ART 
+meilleurs [meilleur] ADJ
+personnages [personnage] N
+de [de]PREP
+la [la] ART
+série [série] N 
+
+
+
+
+joffrey Baratheon] [Joffrey=Baratheon]] PROP
+/
+miaouss [Miaouss] PROP
+cersei Lannister [Cersei =Lannister] PROP
+est [être] V 
+persan [persan] ADJ 
+,
+alors [alors] ADV 
+son [son] DET 
+fils [fils] N 
+joffrey [Joffrey] PROP
+est [être] V
+le Meowth [Le=Meowth]  N 
+sous-évolué [sous-évolué] N 
+dans [dans] PRP
+le [le] ART 
+sens [sens] N 
+où [où] ADV 
+cersei [Cersei] PROP
+.gère [gérer] V 
+ses [son] DET 
+actions [action] N 
+moralement [moralement] ADV 
+mauvaises [mauvais] N
+avec [avec] PRP
+calme [calme] ADJ
+et [et] KC
+calcul [calcul] N 
+,
+joffrey [Joffrey] PROP
+est [être] V 
+tout [tout] ADV 
+ce [ce] DET
+qu' [qu'] N 
+elle [elle] PRON
+n' [ne] ADV 
+est [être] V 
+pas [pas] ADV 
+alors que [alors=que] KS
+les [le] ART 
+fans [fan] N 
+ont [avoir] V 
+peut-être [pouvoir=être] ADV
+voulu [vouloir] V 
+sauter [sauter] V 
+à travers [à=travers] PRP
+leurs [leur] DET 
+écrans [écran] N 
+pour [pour] PRP
+frapper [frapper] V 
+joffrey [Joffrey] PROP
+au [à+le] ART
+visage [visage] N 
+,
+la [le] ART
+wisecracking [wisecracking] N 
+de [de]  PRP
+meowth [Meowth] PROP 
+a [avoir] V 
+peut-être [pouvoir=être] V 
+entraîné [entraîner] V 
+un [un] ART 
+effet [effet] N 
+similaire [similaire] ADJ 
+de [de] PRP
+pokémon [Pokémon] PROP
+rival [rival] N 
+les [le] ART fF
+fans [fan] N 
+de [de] PRP
+l' [le] ART 
+anime [animer] V 
+pokémon [Pokémon] PROP
+se [se]  PRON
+souviendront [souvenir] V 
+que [que] KS
+le Meowth [Le=Meowth] PROP
+parlant [parler] V 
+de [de] PRP
+team rocket[team=rocket] PROP
+avait [avoir] V
+un [un] ART 
+certain [certain] ADV 
+dégoût [dégoût] ADJ 
+pour [pour]  PRP
+le [le] ART 
+persan [persan] N 
+de [de]PREP
+rocket  [rocket] N
+ Boss Giovanni [Rocket=Boss=Giovanni] PROP
+meowth [Meowth] PROP
+était [être]
+une [une] ART 
+version [version] N 
+non [non] ADV
+évoluée [évolué] ADJ
+et [et] KC
+stupide [stupide] ADJ 
+de [de] PRP
+le [le] ART
+chat [chat] N
+digne [digne] ADJ 
+assis [asseoir] V 
+dans [dans] PRP
+le [le] ART
+bureau [bureau] N
+de [de] PRP
+giovanni [Giovanni] PROP
+mais [mais]  KC
+ils [il] PRON 
+avaient [avoir] V 
+la [le] ART 
+même [même] ADV 
+biologie [biologie]  N
+
+arya [Arya] PROP
+Stark [Arya] PROP
+greninja [Greninja] PROP
+les [le] ART
+téléspectateurs [téléspectateur] N
+qui [qui] PRON
+ont [avoir] V
+quitté [quitter] V
+jeu [jeu] N
+de [de] PRP
+les [le] ART
+trônes [trône] N
+à [à] PRP
+le [le] ART
+début [début] N
+de [de] PRP
+la [le] ART
+série [série] N
+peut [pouvoir] V
+ne [ne] ADV
+pas [pas] ADV
+comprendre [comprendre] V
+la [le] ART
+comparaison [comparaison] N
+entre [entre] PRP
+arya [Arya] PROP
+et [et] KC
+greninja [Greninja] PROP
+,
+mais [mais] KC
+le [le] ART
+tueur [tueur] ADJ
+de [de] PRP
+the Night King [The=Night=King] PROP
+mérite [mériter] V
+d [d] PRP
+'
+être [être] V
+comparé [comparer] V
+à [à] PRP
+un [un] ART
+pokémon [Pokémon] PROP
+basé [baser] V
+sur [sur] PRP
+le [le] ART
+combat [combat] N
+.
+greninja [Greninja] PROP
+est [être] V
+devenu [devenir] V
+un [un] ART
+favori [favori] ADJ 
+de [de] PRP
+les [le] ART
+fans [fan] N
+de [de] PRP
+pokémon X & Y [Pokémon=X=&=Y] PROP
+pour [pour] PRP
+sa [son] DET
+conception [conception] N
+de [de] PRP
+personnage [personnage] N
+unique [unique] ADJ 
+et [et]  KC 
+ses [son]  DET 
+puissantes [puissant] ADJ 
+capacités [capacité]  N 
+de [de] PRP
+combat [combat] N
+.
+après [après] PRP
+avoir [avoir] V 
+été [être] V
+formée [former] V
+à [à] PRP
+bravos [bravos] PROP
+,
+arya [Arya]  PROP
+retourne [retourner] V
+à [à] PRP
+westeros [Westeros] PROP 
+pour [pour] PRP
+s' [se] KS
+attaquer [attaquer] V
+à [à] PRP
+ceux [celui] PRON
+qui [qui] PRON
+ont [avoir] V
+fait [faire] V 
+du [du] DET
+tort [tort] N 
+à [à] PRP
+sa [son] DET
+famille [famille] N
+.
+ses [son] DET
+capacités [capacité] N 
+d' [de] PRP
+assassin [assassin] N 
+avaient [avoir] V
+souvent [souvent] ΑDV
+de [de] PRP
+les [le] ART
+fans [fan] N
+qui [qui] PRON
+l' [le] ART
+appelaient [appeler] V
+un [un] ART
+ninja [ninja] N 
+.
+varys [Varys] PROP
+/
+spinarak [Spinarak] PROP 
+si [si] KS
+varys [Varys] PROP 
+avait [avoir] V
+répondu [répondre] V
+à [à] PRP
+ses [son] DET 
+attentes [attente] N 
+de [de] PRP
+début [début] N
+de [de] PRP
+saison [saison] N
+en [en] PRP
+tant [tant] ADV
+que [que] PRP
+planificateur [planificateur] N
+de [de] PRP
+cerveau [cerveau] N
+,
+il [il] PRON
+pourrait [pouvoir] V
+être [être] V
+un [un] ART 
+ariados [ariados] PROP
+,
+mais [mais] KC
+hélas [hélas] IN 
+.
+le [le] ART
+personnage [personnage] N 
+surnommé [surnommer] V 
+The Spider [The=Spider] PROP
+doit [devoir] V
+être [être] V
+un [un] ART
+pokémon [Pokémon] PROP
+araignée [araignée] N
+.
+varys [Varys] PROP 
+était [être] V
+connu [connaître] V 
+pour [pour] PRP
+son [son] DET
+look [look] N 
+unique [unique] ADJ 
+et [et] KC
+son [son] DET
+comportement [comportement] N
+intrigant [intrigant] ADJ
+dans [dans] PRP
+les [le] ART 
+premières [premier] ADJ
+saisons [saison] N
+de [de] PRP
+la [le] ART
+série [série] N 
+,
+mais [mais] KC
+est [être] V 
+finalement [finalement] ADV
+devenu [devenir] V 
+un [un] ART
+loyaliste [loyaliste] N
+à [à] PRP
+certains [certain] ADJ
+ idéaux [idéal] N 
+,
+ce [ce] DET 
+qui [qui] PRON
+a [avoir] V
+conduit [conduire]  V
+à [à] PRP
+son [son] DET
+exécution [exécution] N
+.
+comme [comme] PRP
+varys [Varys] PROP
+,
+spinarak [Spinarak] PROP 
+n’ [ne] ADV
+a [avoir] V 
+pas [pas] ADV
+beaucoup [beaucoup] ADV 
+de [de] PRP
+compétences [compétence] N
+de [de] PRP
+combat [combat] N
+,
+mais [mais] KC
+est [être] V 
+considéré [considérer] V 
+comme [comme] PRP
+un [un] ART
+chasseur [chasseur] N
+très [très] ADV
+intelligent [intelligent] ADJ
+et [et] KC
+patient [patient] ADJ 
+.
+varys [Varys] PROP
+a [avoir] V
+également [également] ADV
+livré [livrer] V 
+certaines [certain] ADJ 
+de [de] PRP
+les [le] ART
+meilleures [meilleur] ADJ 
+brûlures [brûlure] N 
+de [de] PRP
+la [le] ART
+série [série] N
+.
+hodor [Hodor] PROP 
+/
+ronflex [Ronflex] PROP 
+hodor [Hodor] PROP 
+a [avoir] V 
+joué [jouer] V 
+un [un] ART 
+rôle [rôle] N 
+de [de] PRP
+fond [fond]  N
+pendant [pendant] PRP
+la [le] ART 
+majeure [majeur] ADJ
+partie [partie] N
+de [de] PRP
+la [le] ART 
+série [série] 
+,
+étant [être] V 
+là [là] ADV
+pour [pour] PRP
+soutenir [soutenir]  V
+bran [bran] PROP
+dans [dans]  PRP
+son [son] DET
+voyage [voyage] N
+vers [vers] PRP
+le [le] ART 
+nord [nord] N 
+.
+ce [ce] DET 
+n' [ne] ADV
+est [être] V 
+qu [que] KS
+'
+à [à] PRP
+l' [le] ART
+épisode [épisode] N
+de [de] PRP
+sa [son]  DET
+mort [mort] N 
+prématurée [prématuré] ADJ
+que [que] KS
+les [le] ART
+téléspectateurs [téléspectateur] N
+ont [avoir] V
+vu [voir] V 
+plus [plus] ADV
+ de [de] PRP
+trame [trame] N
+de [de] PRP
+fond [fond] N
+à [à] PRP
+le [le] ART 
+personnage [personnage] N
+.
+hodor [Hodor] PROP 
+,
+comme [comme] PRP
+son [son] DET 
+homologue [homologue] N 
+pokémon Snorlax [Pokémon=Snorlax] PROP 
+,
+est [être] V
+devenu [devenir] V
+un [un] ART 
+favori [favori] N
+de [de] PRP
+les [le] ART
+fans [fan] N
+en [en] PRP
+tant [tant] ADV
+que [que] PRP
+personnages [personnage]  N
+qui [qui] PRON
+semblaient [sembler] V
+paresseux [paresseux] ADJ 
+et [et] KC
+ressemblant [ressembler]  V 
+à [à]  PRP
+de [de] PRP
+les [le] ART
+idiots [idiot] ADJ
+à [à] PRP
+l' [le] ART
+extérieur [extérieur] N 
+mais [mais] KC
+qui [qui] PRON
+étaient [être] V
+en [en] PRP
+fait [fait] N 
+très [très] ADV
+puissants [puissant] ADJ
+et [et] KC
+fiables [fiable] ADJ
+.

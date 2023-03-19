@@ -1,0 +1,1227 @@
+les [le] <*> <art> <def> <def> ART M P @>N
+personnages [personnage] <H> <f-phys-h> <f-phys> N M P @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+game [game] <*> N nG S @P<
+of Thrones [Of=Thrones] <*> <heur> <np-close> PROP @N<
+[Of=Thrones] <*> <heur> <np-close> N UTR S IDF NOM @N<OF
+et [et] KC @CO
+leurs [leur] DET nG P @>N
+homologues [homologue] ADJ M S @>N
+[homologue] ADJ nG P @>N 
+[homologue] N nG P @SUBJ>
+pokémon [Pokémon] <*> <np-close> PROP @N< @SUBJ>
+regarder [regarder] <*> <mv> V INF @ICL-ACC> @ICL-SUBJ>
+en [en] <prp> PRP @<ADVL
+rafale [rafale] <wea-wind> N F S @P<
+jeu [jeu] <*> <np-long> N M S @N<
+des [des] <art> <idf> ART M P @>N
+trônes [trône] <furn> N M P @<ACC @SUBJ>
+et [et] <co-inf> KC @CO
+jouer [jouer] <vq> <mv> <np-close> V INF @ICL-N< @ICL-<SUBJ @ICL-SUBJ> @ICL-<ACC @ICL-P<
+le [le] <art> <def> <def> ART M S @>N
+nouveau [nouveau] ADJ M S @>N
+pokémon [Pokémon] <*> PROP @<ACC
+jeu [jeu] <np-close> N M S @N<
+simultanément [simultanément] <adv> <atemp> ADV @<ADVL
+peut [pouvoir] <aux> V PR 3S IND @FAUX
+entraîner [entraîner] <mv> V INF @ICL-AUX<
+d [d] ADJ M S @>N
+étranges [étrange] ADJ M P @>N
+rêves [rêve] <pp> N M P @<ACC
+de [de] <prp> <np-close> PRP @N<
+fièvre [fièvre] <f-psych> N F S @P<
+jon Snow [Jon=Snow] <*> PROP @SUBJ>
+aurait-il [aurait-il] <heur> <np-close> N UTR S IDF NOM @N<
+pu [pouvoir] <aux> V PCP2 STA M S @N<
+combattre [combattre] <mv> V INF @ICL-SUBJ>
+seul [seul] ADJ PRE_DET=+ M S
+le [le] <art> <def> <def> ART M S @>N
+roi [roi] <Hprof> <cc-h> <ac-cat> N M S @<ACC
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+nuit [nuit] <temp> <dur> N F S @P<
+s' [se] <sam-> <refl> PERS 3S ACC @ACC>
+il [il] PERS 3S NOM @SUBJ>
+était [être] <va+LOC> <mv> V IMPF 3S IND @FMV
+un [un] <idf> ART M S @>N
+maître [maître] <Hprof> N M S @<SC
+pokémon [Pokémon] <*> <np-close> PROP @N<
+ash [Ash] <*> PROP @NPHR
+ketchum [Ketchum] <*> <heur> <np-close> PROP @N<
+aurait-il [aurait-il] <heur> <np-long> N UTR S IDF NOM @N<
+encore [encore] <adv> <atemp> ADV @ADVL
+10 [10] <card> NUM P @>N
+ans [an] <dur> <per> <num+> N M P @>A
+après [après] <prp> <np-close> PRP @N<PRED @N<
+huit [huit] <card> NUM @>N
+saisons [saison] <per> N F P @P<
+de [de] <prp> <np-close> PRP @N<
+trônes [trône] <*> <furn> N M P @P<
+probablement [probablement] <*> <adv> ADV @ADVL
+pas [pas] <adv> ADV @ADVL
+bien que [bien=que] <*> <ks> KS @SUB
+les [le] <art> <def> <def> ART nG P @>N
+deux [deux] <ac> <act-c> NUM @>N
+franchises [franchise] <act-s> N F P @SUBJ>
+aient [avoir] <mv> V PR 3P SUBJ @FS-ADVL>
+peu de [peu=de] <quant> DET F P @>N
+choses [chose] <cc-h> N F P @<ACC
+en [en] <prp> PRP @<ADVL
+commun [commun] ADJ M S @P<
+elles [elle] PERS 3P NOM @SUBJ>
+sont [être] <va+LOC> <mv> V PR 3P IND @FMV
+toutes [tout] <quant> DET F P @>N
+les [le] <art> <def> <def> ART nG P @>N
+deux [deux] <ac> <act-c> NUM @>N
+suffisamment [suffisamment] <adv> <amod> ADV @<ADVL
+populaires [populaire] N nG P @<SC
+pour [pour] <prp> PRP @<ADVL
+qu' [qu'] <heur> N UTR S IDF NOM @P<
+il [il] PERS 3S NOM @S-SUBJ>
+y [y] PERS PIV @PIV>
+ait [avoir] <mv> V PR 3S SUBJ @FMV
+un [un] <idf> ART M S @>N
+certain [certain] ADJ M S @>N
+chevauchement [chevauchement] <ac> N M S @<ACC
+parmi [parmi] <prp> PRP @<ADVL
+leurs [leur] DET nG P @>N
+fans [fan] <Hprof> N nG P @P<
+ce [ce] <*> <dem> DET M S @SUBJ>
+sont [être] <va+LOC> <mv> V PR 3P IND @FMV
+aussi [aussi] <adv> ADV @>N
+des [des] <art> <idf> ART M P @>N
+trucs [truc] <Vground> N M P @<SC
+célèbres [célèbre] <np-long> ADJ M S @N<
+avec [avec] <prp> <np-close> PRP @N< @<ADVL
+une [une] <idf> ART F S @>N
+abondance [abondance] <act-c> N F S @P< [abondance] 
+<act-c> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+personnages [personnage] <H> <f-phys-h> <f-phys> N M P @P<
+différents [différent] ADJ M P @N<
+il [il] PERS 3S NOM @F-SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+donc [donc] <kc> ADV @<ADVL
+pas [pas] <adv> ADV @<ADVL
+si [si] KS @SUB
+difficile [difficile] ADJ nG S @P<
+de [de] <prp> PRP @A<
+trouver [trouver] <vq> <mv> V INF @ICL-P< [se=trouver] <mv>
+ V INF @ICL-P<
+des [des] <art> <idf> ART M P @>N
+personnages [personnage] <H> <f-phys-h> <f-phys> N M P @<ACC
+ similaires [similaire] ADJ nG P @N<
+entre [entre] <prp> <np-close> PRP @N< @<ADVL
+eux [lui] PERS 3P PIV @P<
+daenerys Targaryen [Daenerys=Targaryen] <*> <heur> PROP @SUBJ>
+[daenerys=Targaryen] <*> <heur> PROP @SUBJ>
+dracaufeu [Dracaufeu] <*> <heur> PROP @SUBJ> 
+[dracaufeu] <*> <heur> N UTR S IDF NOM @SUBJ>
+il [il] <*> PERS 3S NOM @F-SUBJ>
+semblait [sembler] <mv> V IMPF 3S IND @FMV
+évident [évident] ADJ M S @<SC
+que [que] KS @SUB
+le [le] <art> <def> <def> ART M S @>N
+principal [principal] ADJ M S @>N
+représentant [représenter] <vdepict <mv> V PCP1 @ICL-ADVL>
+de [de] <prp> PRP @<ADVL
+la [le] <art> <def> <def> ART F S @>N
+maison [maison] <build> N F S @P<
+targaryen [Targaryen] <*> <heur> PROP @SUBJ>
+devrait [devoir] <aux> V COND 3S @FS-<SUBJ
+être [être] <va+LOC> <mv> V INF @ICL-AUX<
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @<SC
+qui [qui] <rel> INDP NOM @SUBJ>
+ressemble [ressembler] <mv> <np-close> V PR 3S IND @FS-N<
+à [à] <prp> PRP @<PIV
+un [un] <idf> ART M S @>N
+dragon [dragon] <Hprof> N M S @P<
+et [et] KC @CO
+qui [qui] <rel> INDP NOM @P<
+mieux [bien] <adv> <amod> ADV COM @ADVL [bom] AJD COM
+que [que] KS @AS-KOMP<
+l' [le] <art> <def> <def> ART M S @>N
+allume-feu [allume-feu] <heur> N M nN @AS<
+gen I [Gen=I] <*> <np-close> PROP UTR S IDF NOM @N<
+préféré [préférer] <vq> <vH*> V PCP2 STA M S @N<
+des [des] <art> <idf> ART nG P @>N
+fans [fan] <Hprof> N nG P @<ACC
+charizard [charizard] <*> <heur> <np-close> N UTR S IDF NOM @APP
+charizard [Charizard] <*> <heur> PROP @SUBJ> [charizard] <*> <heur>
+ N UTR S IDF NOM @SUBJ>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+bien-aimé [bien-aimé] <heur> ADJ M S @<SC
+non [non] <adv> ADV @<ADVL
+seulement [seulement] <adv> <setop> ADV @>P
+dans [dans] <prp> PRP @<ADVL
+les [le] <art> <def> <def> ART nG P @>N
+jeux [jeu] N M S @P<
+mais [mais] KC @CO
+aussi [aussi] <adv> ADV @>P
+dans [dans] <prp> PRP @<ADVL
+l' [le] PERS 3S ACC @ACC> [la] <fem> PERS 3S ACC @ACC>
+anime [anime] nm N F S @P<
+au [à+le] <*> PRP @>N
+début [début] <act-c> <event-c> <ss> N M S @P<
+des [des] <art> <idf> ART F P @>N
+saisons [saison] <per> N F P @SUBJ>
+il [il] PERS 3S NOM @F-SUBJ>
+était [être] <va+LOC> <mv> <aux> V IMPF 3S IND @FAUX
+connu [connaître] <mv> V PCP2 PAS M S @ICL-AUX<
+pour [pour] <prp> PRP @<ADVL
+être [être] <va+LOC> <mv> V INF @ICL-P<
+indiscipliné [indiscipliné] ADJ M S @<SC
+et [et] <co-sc> KC @CO
+irrationnel [irrationnel] ADJ M S @<SC
+comme [comme] PRP @<ADVL
+daenerys [Daenerys] <*> <heur> PROP @P< [daenerys] <*> <heur>
+N UTR S IDF NOM @P<
+dans [dans] <prp> PRP @<ADVL
+la [le] <art> <def> <def> ART F S @>N
+saison [saison] <per> N F S @P<
+8 [8] <card> <np-close> NUM P @N<
+l' [le] <*> <art> <def> <def> ART M S @>N
+une [une] <idf> ART F S @>N
+des [des] <art> <idf> ART F P @>N
+scènes [scène] <L> N F P @SUBJ>
+les [le] <art> <def> <def> ART nG P @>N
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+emblématiques [emblématique] ADJ nG P @N<
+de [de] <prp> <np-close> PRP @N<
+daenerys [Daenerys] <*> <heur> PROP @P< [daenerys] <*> <heur>
+ N UTR S IDF NOM @P<
+étant [être] <va+LOC> <mv> V PCP1 @ICL-N< @ICL-ADVL> @ICL-<ADVL
+sa [son] <poss> DET F S @>N
+sortie [sortie] <Lpath> <ac> N F S @<SC
+de [de] <sam-> <np-close> PRP @N<
+le [le] <-sam> <def> ART M S @>N
+feu [feu] <percep-t> <f> N M S @P<
+avec [avec] <prp> PRP @<ADVL
+son [son] <poss> DET M S @>N
+trio [trio] <HH> <ac-cat> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+bébés [bébé] <A> <H> N M P @P<
+dragons [dragon] <Hprof> N M P @SUBJ>
+à [à] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+fin [fin] <am> N F S @P< [fin] <am> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+première [premier] NUM @>N
+saison [saison] <per> N F S @P<
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @P<
+de [de] <prp> <np-close> PRP @N<
+type [type] <H> N M S @P<
+feu [feu] ADJ M S @N<
+semblait [sembler] <mv> V IMPF 3S IND @FMV
+être [être] <va+LOC> <mv> V INF @ICL-<SC
+la [le] <art> <def> <def> ART F S @>N
+meilleure [meilleur] ADJ F S @>N
+option [option] <f-right> N F S @<SC
+jon Snow [Jon=Snow] <*> PROP @SUBJ>
+lucario [Lucario] <*> <heur> PROP @SUBJ> [lucario] <*> <heur>
+ N UTR S IDF NOM @SUBJ>
+lucario [Lucario] <*> <heur> <np-close> PROP @N< [lucario] <*> <heur> <np-close>
+ N UTR S IDF NOM @N<
+était [être] <va+LOC> <mv> V IMPF 3S IND @FMV
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART nG P @>N
+pokémon [pokémon] <*> N M S @<SC
+les [le] <art> <def> <def> ART nG P @>N
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+populaires [populaire] <np-long> ADJ M S @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+génération [génération] <Hfam> N F S @P<
+iv [Iv] <*> <allupper> <np-close> PROP @N<
+et [et] <co-postnom> KC @CO
+pour [pour] <prp> <np-close> PRP @N< @<ADVL
+une [une] <idf> ART F S @>N
+bonne [bon] ADJ F S @>N
+raison [raison] <ac> N F S @P<
+semblable [semblable] <*> <Hprof> N nG S @SUBJ>
+à [à] <prp> <np-close> PRP @N<
+jon Snow [Jon=Snow] <*> PROP @P<
+lucario [Lucario] <*> <heur> PROP @SUBJ> [lucario] <*> <heur>
+ N UTR S IDF NOM @SUBJ>
+est [être] <va+LOC> <mv> <aux> V PR 3S IND @FMV
+souvent [souvent] <adv> <atemp> <atemp> ADV @<SC
+décrit [décrire] <vq> <mv> V PR 3S IND @FMV
+comme [comme] PRP @<ADVL
+un [un] <idf> ART M S @>N
+loup [loup] <Azo> N M S @P<
+solitaire [solitaire] ADJ nG S @N<
+et [et] <co-fin> KC @CO
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+très [très] <adv> <aquant> ADV @>A
+puissant [puissant] ADJ M S @<SC
+le [le] <*> <art> <def> <def> ART M S @>N
+design [design] <ac> <am> N M S @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+lucario [Lucario] <*> <heur> PROP @P< [lucario] <*> <heur>
+ N UTR S IDF NOM @P<
+semble [sembler] <mv> V PR 3S IND @FMV
+également [également] <adv> <amod> ADV @<ADVL
+ressembler [ressembler] <mv> V INF @ICL-<SC
+à [à] <prp> PRP @<PIV
+un [un] <idf> ART M S @>N
+loup [loup] <Azo> N M S @P<
+correspondant [correspondre] <vH*> <mv> V PCP1 @ICL-N< @ICL-<ADVL
+parfaitement [parfaitement] <adv> <amod> ADV @<ADVL
+à [à] <prp> PRP @<PIV
+la [le] <art> <def> <def> ART F S @>N
+lignée [lignée] <Ltop> <L> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+jon's [Jon's] <*> <heur> PROP @P< [jon's] <*> <heur>
+ N UTR S IDF NOM @P<
+house Stark [House=Stark] <*> <heur> <np-close> PROP @N< [House=Stark] <*> <heur> <np-close>
+ N UTR S IDF NOM @N<
+
+comme [comme] <*> PRP @ADVL>
+jon Snow [Jon=Snow] <*> PROP @P<
+qui [qui] <rel> INDP NOM @SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+a [avoir] <mv> <aux> <np-close> V PR 3S IND @FS-N<
+jamais [jamais] <adv> <atemp> <atemp> ADV @<ADVL
+cherché [chercher] <vH*> <mv> V PCP2 AKT M S @ICL-AUX<
+à [à] <prp> PRP @<ADVL
+être [être] <va+LOC> <mv> <aux> V INF @ICL-P<
+reconnu [reconnaître] <vq> <mv> V PCP2 PAS M S @ICL-AUX<
+pour [pour] <prp> PRP @<ADVL
+ses [son] <poss> DET M P @>N
+efforts [effort] <act> <f-psych> N M P @P<
+lucario [Lucario] <*> <heur> PROP @SUBJ> [lucario] <*> <heur> N UTR S IDF NOM @SUBJ>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART nG P @>N
+héros [héros] <H> <Hmyth> <A> N M S @<SC
+les [le] <art> <def> <def> ART nG P @>N
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+silencieux [silencieux] <np-long> ADJ M S @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+franchise [franchise] <act-s> N F S @P<
+pokémon [Pokémon] <*> <np-close> PROP @N<
+dans [dans] <*> <prp> PRP @ADVL>
+pokémon [Pokémon] <*> PROP @P<
+lucario [Lucario] <*> <heur> PROP @SUBJ> [lucario] <*> <heur> N UTR S IDF NOM @SUBJ>
+et [et] <co-subj> KC @CO
+le Mystère de Mew [Le=Mystère=de=Mew] <heur> N UTR S IDF NOM @SUBJ>
+lucario [Lucario] <*> <heur> PROP @SUBJ> [lucario] <*> <heur> N UTR S IDF NOM @SUBJ>
+est [être] <va+LOC> <mv> <aux> V PR 3S IND @FMV
+décrit [décrire] <vq> <mv> V PR 3S IND @FMV
+comme [comme] PRP @<ADVL
+extrêmement [extrêmement] <adv> <aquant> ADV @>A
+loyal [loyal] ADJ M S @P< @>N
+désintéressé [désintéressé] ADJ M S @P< @>N
+et [et] <co-prenom> KC @CO
+héroïque [héroïque] ADJ nG S @P< @>N @<ACC @<SUBJ @<DAT
+tout [tout] <quant> INDP @P< @<ACC @<SUBJ
+comme [comme] <np-close> PRP @N< @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+bien-aimé [bien-aimé] <H> N M S @P<
+jon Snow [Jon=Snow] <*> <np-close> PROP @N<
+sandor Clegane [Sandor=Clegane] <*> <heur> PROP @SUBJ> [Sandor=Clegane] <*> <heur> N UTR S IDF NOM @SUBJ>
+houndour [Houndour] <*> <heur> PROP @SUBJ> [houndour] <*> <heur> N UTR S IDF NOM @SUBJ>
+houndour [Houndour] <*> <heur> <np-close> PROP @N< [houndour] <*> <heur> <np-close> N UTR S IDF NOM @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+génération [génération] <Hfam> N F S @P<
+ii [Ii] <*> <allupper> <np-close> PROP @N<
+qui [qui] <rel> INDP NOM @SUBJ>
+était [être] <va+LOC> <mv> <np-close> V IMPF 3S IND @FS-N<
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART nG P @>N
+premiers [premier] NUM @>N
+types [type] <H> N M P @<SC
+sombres [sombre] <np-long> ADJ M S @N<
+possède [posséder] <mv> V PR 3S IND @FMV
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART M P @>N
+designs [design] <ac> <am> N M P @<ACC
+les [le] <art> <def> <def> ART nG P @>N
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+cool [cool] ADJ M nN @N<
+en [en] <prp> <np-close> PRP @N< @<ADVL
+forme [forme] <H> <f-phys-h> <f-phys> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+chien [chien] <Azo> <Adom> N M S @P<
+parmi [parmi] <prp> <np-close> PRP @N<
+les Pokémon [Les=Pokémon] <heur> N UTR S IDF NOM @P<
+contrairement [contrairement] <*> <adv> ADV @ADVL>
+à [à] <prp> PRP @A<
+de [de] <prp> PRP @P<
+nombreux [nombreux] ADJ M S @>N
+autres [autre] ADJ M P @>N
+chiens [chien] <Azo> <Adom> N M P @P< [chiens] N M P @P<
+tels [tel] <dem> DET M P @P<
+que [que] KS @AS-KOMP<
+ninetales [ninetal] <*> <heur> ADJ F P @>N [ninetal] <*> <heur> ADJ nG P @>N [ninetale] <*> <heur> ADJ nG P @>N
+et [et] <co-prenom> KC @CO
+les [le] <art> <def> <def> ART nG P @>N
+eevees [eevees] <*> <heur> N UTR S IDF NOM @SUBJ>
+houndour [houndour] <*> <heur> <np-close> N UTR S IDF NOM @N<PRED
+a [avoir] <mv> V PR 3S IND @FS-KOMP<
+une [une] <idf> ART F S @>N
+apparence [apparence] <percep-w> N F S @<ACC
+beaucoup [beaucoup] <adv> <aquant> <aquant> ADV @>A
+moins [moin] ADV COM @ADVL
+majestueuse [majestueux] ADJ F S @>N
+et [et] KC @CO
+amicale [amical] ADJ nG S @P< [amical] ADJ F S @P< [amicale] N F S @P<
+ce [ce] <dem> DET M S @P<
+qui [qui] <rel> INDP NOM @P< [qui] <interr> INDP NOM @P<
+en [en] <prp> PRP @ADVL
+fait [fait] ADJ M S @P< [fait] <ac> N M S @P<
+le [le] <art> <def> <def> ART M S @>N
+compagnon [compagnon] <Hprof> <np-close> N M S @APP
+idéal [idéal] ADJ M S @N<
+pour [pour] <prp> PRP @A<
+jeu [jeu] <*> N M S @P<
+de [de] <sam-> <np-close> PRP @N<
+les [le] <-sam> <def> ART nG P @>N
+trônes‘ [trônes‘] <heur> N UTR S IDF NOM @P<
+sandor Clegane [Sandor=Clegane] <*> <heur> <np-close> PROP @N< [Sandor=Clegane] <*> <heur> <np-close> N UTR S IDF NOM @N<
+surnommé [surnommer] V PCP2 STA M S @>N
+The Hound [The=Hound] <*1> <*2> <heur> <np-close> N UTR S IDF NOM @N<PRED
+houndour [Houndour] <*> <heur> PROP @SUBJ> [houndour] <*> <heur> N UTR S IDF NOM @SUBJ>
+a [avoir] <mv> <aux> V PR 3S IND @FAUX
+été [être] <va+LOC> <mv> <aux> V PCP2 AKT M S @ICL-AUX<
+choisi [choisir] <vq> <vH*> <mv> V PCP2 PAS M S @ICL-AUX<
+parmi [parmi] <prp> PRP @<ADVL
+les [le] <art> <def> <def> ART nG P @>N
+évolués [évoluer] V PCP2 STA M P @P< [évolué] ADJ M P @P<
+houndoom [Houndoom] <*> <heur> <np-close> PROP @APP [houndoom] <*> <heur> <np-close> N UTR S IDF NOM @APP
+pour [pour] <prp> PRP @<ADVL
+représenter [représenter] <vdepict <mv> V INF @ICL-P<
+la [le] <art> <def> <def> ART F S @>N
+suppression [suppression] <act-c> N F S @<ACC
+de [de] <prp> <np-close> PRP @N<
+sandor [Sandor] <*> <mask> PROP @P<
+en [en] <prp> PRP @<ADVL
+raison [raison] <ac> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+torture [torture] <act-m> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+son [son] <poss> DET M S @>N
+frère [frère] <Hprof> N M S @P<
+aîné [aîné] ADJ M S @N<
+dans [dans] <prp> <np-close> PRP @N< @<ADVL
+son [son] <poss> DET M S @>N
+enfance [enfance] <temp> N F S @P<
+,
+qui [qui] <rel> INDP NOM @SUBJ>
+hante [hanter] <mv> <np-close> V PR 3S IND @FS-N<
+le [le] <art> <def> <def> ART M S @>N
+héros [héros] <H> <Hmyth> <A> N M S @<ACC
+improbable [improbable] ADJ nG S @N<
+tout [tout] <quant> INDP @<ACC
+à [à] <prp> <sam-> PRP @<ADVL
+_le [le] <-sam> <art> <def> <-sam> <def> ART M S @>N
+long [long] N M S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+cersei Lannister [Cersei=Lannister] <*> <heur> PROP @P< [cersei=Lannister] <*> <heur> PROP @P<
+persan [persan] ADJ M S @N< @PRED>
+lorsque [lorsque] <*> <rel> ADV @ADVL>
+l' [le] <art> <def> <def> ART M S @>N
+on [on] PERS 3S NOM @SUBJ>
+considère [considérer] <vq> <mv> V PR 3S IND @FS-ADVL>
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @<ACC
+avec [avec] <prp> PRP @<ADVL
+une [une] <idf> ART F S @>N
+apparence [apparence] <percep-w> N F S @P<
+extérieure [extérieur] ADJ F S @N<
+de [de] <prp> <np-close> PRP @N<
+royauté [royauté] <Lh> N F S @P<
+associée [associer] <mv> <np-close> V PCP2 PAS F S @ICL-N<
+à [à] <prp> PRP @<ADVL
+une [une] <idf> ART F S @>N
+personnalité [personnalité] <H> <f-phys-h> <f-phys> N F S @P<
+sournoise [sournois] ADJ F S @N<
+le [le] <art> <def> <def> ART M S @>N
+persan [persan] N M S @SUBJ>
+est [être] <va+LOC> <mv> <aux> V PR 3S IND @FAUX
+venu [venu] ADJ M S @<SC
+à [à] <prp> PRP @<SA
+l' [le] <art> <def> <def> ART M S @>N
+esprit [esprit] <ss> <sem> N M S @P<
+peut- [pouvoir] <hyfen> <*> <hyfen> <aux> V PR 3S IND @FAUX
+être [être] <va+LOC> <mv> V INF @ICL-AUX<
+est- [être] <hyfen> <va+LOC> <hyfen> <mv> <aux> V PR 3S IND @FAUX
+ce [ce] INDP M S @<SUBJ
+dû [dû] N M S @<SC
+à [à] <prp> PRP @<ADVL
+l' [le] <art> <def> <def> ART F S @>N
+association [association] <HH> <occ> N F S @P<
+avec [avec] <prp> PRP @<ADVL
+team [team] <*> N M S @P<
+rocket Boss Giovanni [Rocket=Boss=Giovanni] <*> <heur> <np-close> PROP @N<
+qu' [qu'] <heur> <np-long> N UTR S IDF NOM @N<
+il [il] PERS 3S NOM @SUBJ>
+semblait [sembler] <mv> V IMPF 3S IND @FMV
+si [si] KS @SUB
+juste [juste] ADJ nG S @>N
+d [d] ADJ M S @SC> @N<
+être [être] <va+LOC> <mv> <np-close> V INF @ICL-N< @ICL-<SUBJ @ICL-<ACC @ICL-<SC
+la [le] <art> <def> <def> ART F S @>N
+comparaison [comparaison] <act> <sem-s> N F S @<SC
+de [de] <prp> <np-close> PRP @N<
+cersei Lannister [Cersei=Lannister] <*> <heur> PROP @P< [cersei=Lannister] <*> <heur> PROP @P<
+bien que [bien=que] <*> <ks> KS @SUB
+house Lannister [House=Lannister] <*> <heur> PROP @SUBJ> [house=Lannister] <*> <heur> PROP @SUBJ>
+soit [être] <va+LOC> <mv> <aux> V PR 3S SUBJ @FS-ADVL>
+beaucoup [beaucoup] <adv> <aquant> <aquant> ADV @>A
+plus [plus] <adv> <aquant> <atemp> ADV @<ADVL @<SC
+complexe [complexe] ADJ nG S @<SC
+que [que] KS @SUB
+les [le] <art> <def> <def> ART M P @>N
+méchants [méchant] N M P @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+bande [bande] <HH> N F S @P<
+dessinée [dessiné] ADJ F S @N<
+de [de] <prp> <np-close> PRP @N<
+team [team] <*> N M S @P<
+rocket [rocket] <*> <np-close> N M S @N<
+ils [il] PERS 3P NOM @SUBJ>
+ont [avoir] <mv> V PR 3P IND @FS-KOMP<
+leurs [leur] DET M P @>N
+moments [moment] <per> <temp> N M P @<ACC
+de [de] <prp> <np-close> PRP @N<
+comportement [comportement] <act-m> N M S @P<
+ignoble [ignoble] ADJ nG S @N<
+cersei [Cersei] <*> <heur> PROP @P<
+en [en] <prp> PRP @ADVL>
+dépit [dépit] <f-psych> N M S @P<
+d [d] ADJ M S @N<
+être [être] <va+LOC> <mv> V INF @X
+l' [le] <art> <def> <def> ART M S @>N
+une [une] <idf> ART F S @>N
+des [des] <art> <idf> ART nG P @>N
+forces [forces] <HH> N F S @<SC
+les [le] <art> <def> <def> ART nG P @>N
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+malveillantes [malveillant] ADJ F P @N<
+de [de] <prp> <np-close> PRP @<PIV @N<
+jeu [jeu] <*> N M S @P<
+de [de] <sam-> <np-close> PRP @N<
+les [le] <-sam> <def> ART nG P @>N
+trônes [trône] <furn> N M P @P<
+garde [garde] <HH> <act> <Hprof> <np-close> N nG S @N<PRED
+une [une] <idf> ART F S @>N
+présence [présence] <event> <aloc> <act> N F S @<SC
+indéniablement [indéniablement] <adv> ADV @<ADVL
+royale [royale] N F S @<SC
+à travers [à=travers] <prp> PRP @<ADVL
+la [le] <art> <def> <def> ART F S @>N
+plupart [plupart] N F S @P<
+de [de] <prp> <np-close> PRP @N<
+ses [son] <poss> DET M P @>N
+apparitions [apparition] <event> <percep-w> N F P @P<
+publiques [publique] ADJ nG P @N< [public] ADJ F P @N<
+le [le] <*> <art> <def> <def> ART M S @>N
+roi [roi] <Hprof> <cc-h> <ac-cat> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+nuit [nuit] <temp> <dur> N F S @P<
+suicune [Suicune] <*> <heur> PROP @P< [suicune] <*> <heur> N UTR S IDF NOM @P<
+bien que [bien=que] <*> <ks> KS @SUB
+les [le] <art> <def> <def> ART nG P @>N
+deux [deux] <ac> <act-c> NUM @SUBJ>
+aient [avoir] <mv> V PR 3P SUBJ @FS-ADVL>
+des [des] <art> <idf> ART M P @>N
+pouvoirs [pouvoir] <HH> N M P @<ACC
+différents [différent] ADJ M P @N<
+suicune [suicune] <*> <heur> N UTR S IDF NOM @<ACC @SUBJ>
+et [et] <co-subj> KC @CO
+le [le] <art> <def> <def> ART M S @>N
+roi [roi] <Hprof> <cc-h> <ac-cat> N M S @<ACC @SUBJ>
+de [de] <prp> <np-close> PRP @N< @ADVL>
+la [le] <art> <def> <def> ART F S @>N
+nuit [nuit] <temp> <dur> N F S @P<
+partageaient [partager] <mv> V IMPF 3P IND @FMV
+un [un] <idf> ART M S @>N
+statut [statut] <sem-r> N M S @<ACC
+impérial [impérial] ADJ M S @N<
+glacé [glacé] ADJ M S @N<
+suicune [Suicune] <*> <heur> PROP @SUBJ> [suicune] <*> <heur> N UTR S IDF NOM @SUBJ>
+étant [être] <va+LOC> <mv> V PCP1 @ICL-N< @ICL-<ADVL
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @<SC
+légendaire [légendaire] ADJ nG S @PRED> @SC> @N<
+et [et] KC @CO
+the Night King [The=Night=King] <*> <heur> PROP @SUBJ> [The=Night=King] <*> <heur> N UTR S IDF NOM @SUBJ>
+étant [être] <va+LOC> <mv> V PCP1 @ICL-N< @ICL-ADVL> @ICL-<ADVL
+une [une] <idf> ART F S @>N
+figure [figurer] <mv> V PR 3S IND @FMV
+légendaire [légendaire] ADJ nG S @<PRED
+du [du] <art> <idf> ART M S @>N
+monde [monde] <L> N M S @<ACC
+de [de] <prp> <np-close> PRP @N<
+westeros [Westeros] <*> <heur> PROP @P< [westeros] <*> <heur> PROP @P<
+en [en] <prp> PRP @PIV>
+font [faire] <vq> <mv> V PR 3P IND @FMV [se=faire] <mv> V PR 3P IND @FMV
+une [une] <idf> ART F S @>N
+comparaison [comparaison] <act> <sem-s> N F S @<ACC @<SUBJ
+intéressante [intéressant] ADJ F S @N<
+
+le [le] ART M S @>N
+légendaire [légendaire] N M S @SUBJ>
+entei [Entei] <*> <heur> PROP @N< [entei] <*> <heur> ADJ M S @N<
+se [se] <refl> PERS 3S ACC @ACC>
+compare [comparer] <mv> V PR 3S IND @FMV
+à [à] <prp> <sam-> PRP @<ADVL
+le [le] <-sam> <art> <def> <-sam> <def> ART M S @>N
+patriarche [patriarche] <H> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+famille [famille] <HH> <Hfam> N F S @P<
+lannister [Lannister] <*> <heur> <np-close> PROP @N< [lannister] <*> <heur> <np-close> PROP @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+même [même] DET nG nN @>N
+manière [manière] <f> N F S @P<
+que [que] KS @AS-KOMP<
+suicune [Suicune] <*> <heur> PROP @AS< [suicune] <*> <heur> N UTR S IDF NOM @AS<
+et [et] KC @CO
+the Night King [The=Night=King] <*> <heur> PROP @<ACC [The=Night=King] <*> <heur> N UTR S IDF NOM @<ACC
+bien que [bien=que] <*> <ks> KS @SUB
+tywin Lannister [Tywin=Lannister] <*> <heur> PROP @SUBJ> [tywin=Lannister] <*> <heur> PROP @SUBJ>
+ne [ne] <adv> <setop> ADV @ADVL>
+soit [être] <va+LOC> <mv> V PR 3S SUBJ @FS-ADVL>
+pas [pas] <adv> ADV @<ADVL
+une [une] <idf> ART F S @>N
+figure [figure] <ac-cat> <cc> N F S @<SC
+mythologique [mythologique] ADJ nG S @N<
+comme [comme] PRP @A<
+the Night King [The=Night=King] <*> <heur> PROP @P< [The=Night=King] <*> <heur> N UTR S IDF NOM @P<
+,
+il [il] PERS 3S NOM @SUBJ>
+a [avoir] <mv> V PR 3S IND @FMV
+une [une] <idf> ART F S @>N
+présence [présence] <event> <aloc> <act> N F S @<ACC
+dominante [dominant] ADJ F S @N<
+comme [comme] PRP @A<
+le [le] <art> <def> <def> ART M S @>N
+ferait [faire] <vq> <mv> V COND 3S @FMV
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @<SUBJ
+légendaire [légendaire] ADJ nG S @<OC
+.entei [Entei] <*> <heur> PROP @SUBJ>
+existe [exister] <mv> V PR 3S IND @FMV
+dans [dans] <prp> PRP @<ADVL
+la [le] <art> <def> <def> ART F S @>N
+région [région] <Lpath> <L> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+johto [Johto] <*> <heur> PROP @P< [johto] <*> <heur> N UTR S IDF NOM @P<
+comme [comme] <np-long> PRP @N< @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART M P @>N
+chiens [chien] <Azo> <Adom> N M P @P< [chiens] N M P @P<
+légendaires [légendaire] ADJ nG P @N<
+,
+mais [mais] <co-fin> KC @CO
+a [avoir] <mv> V PR 3S IND @FMV
+une [une] <idf> ART F S @>N
+personnalité [personnalité] <H> <f-phys-h> <f-phys> N F S @<ACC
+beaucoup [beaucoup] <adv> <aquant> <aquant> ADV @>A
+plus [plus] <adv> <aquant> <atemp> ADV @>A
+bourrue [bourru] ADJ F S @N<
+que [que] KS @AS-KOMP<
+suicune [Suicune] <*> <heur> PROP @AS< [suicune] <*> <heur> N UTR S IDF NOM @AS<
+.entei [Entei] <*> <heur> PROP @SUBJ>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+peut- [pouvoir] <hyfen> <hyfen> <aux> V PR 3S IND @FAUX [se=pouvoir] <hyfen> <hyfen> V PR 3S IND @FAUX
+être [être] <va+LOC> <mv> V INF @ICL-AUX<
+un [un] <idf> ART M S @>N
+chien [chien] <Azo> <Adom> N M S @<SC
+,
+mais [mais] <co-fin> KC @CO
+sa [son] <poss> DET F S @SUBJ>
+structure [structurer] <mv> V PR 3S IND @FMV
+pl [pl] N M S @<ACC
+suicune [Suicune] <*> <heur> PROP @SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+pas [pas] <adv> ADV @<ADVL
+communément [communément] <adv> <amod> ADV @>A
+connu [connaître] V PCP2 STA M S @<SC
+comme [comme] PRP @A<
+un [un] <idf> ART M S @>N
+méchant [méchant] N M S @P<
+comme [comme] PRP @A<
+the Night King [The=Night=King] <*> <heur> PROP @P< [The=Night=King] <*> <heur> N UTR S IDF NOM @P<
+,
+mais [mais] <co-fin> KC @CO
+son [son] <poss> DET M S @>N
+statut [statut] <sem-r> N M S @SUBJ>
+mystique [mystique] ADJ nG S @N<
+le [le] <art> <def> <def> ART M S @>N
+rendrait [rendre] <mv> V COND 3S @FMV [se=rendre] <mv> V COND 3S @FMV
+tout [tout] <quant> INDP @<SUBJ
+aussi [aussi] <adv> ADV @<ADVL
+effrayant [effrayant] ADJ M S @<PRED
+à [à] <prp> <np-close> PRP @N< @<ADVL
+trébucher [trébucher] <mv> V INF @ICL-P<
+.fans [fan] <*> <Hprof> N nG P @SUBJ>
+de Pokémon [De=Pokémon] <heur> <np-close> N UTR S IDF NOM @N<
+4Ever [4Ever] <heur> <np-long> N UTR S IDF NOM @N<
+se [se] <refl> PERS 3P ACC @ACC>
+souviendra [souvenir] <vH*> <mv> V FUT 3S IND @FMV [se=souvenir] <mv> V FUT 3S IND @FMV
+de [de] <prp> PRP @<PIV
+la [le] <art> <def> <def> ART F S @>N
+puissante [puissant] ADJ F S @>N
+présence [présence] <event> <aloc> <act> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+suicune [Suicune] <*> <heur> PROP @P< [suicune] <*> <heur> N UTR S IDF NOM @P<
+à [à] <prp> <np-long> PRP @N< @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+écran [écran] <Lsurf> N M S @P<
+
+
+le [le] <*> <art> <def> <def> ART M S @>N
+roi [roi] <Hprof> <cc-h> <ac-cat> N M S @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+nuit [nuit] <temp> <dur> N F S @P<
+a [avoir] <mv> <aux> V PR 963
+attiré [attirer] <mv> V PCP2 AKT M S @ICL-AUX<
+la [le] <art> <def> <def> ART F S @>N
+même [même] DET nG nN @>N
+attention [attention] <f-psych> N F S @<ACC
+pour [pour] <prp> PRP @<ADVL
+trônes [trône] <*> <furn> N M P @P<
+ventilateurs [ventilateur] <*> <cc-h> N M P @P<
+le [le] <*> <art> <def> <def> ART M S @>N
+roi [roi] <Hprof> <cc-h> <ac-cat> N M S @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+nuit [nuit] <temp> <dur> N F S @P<
+était [être] <va+LOC> <mv> <aux> V IMPF 3S IND @FAUX
+considéré [considérer] <vq> <mv> V PCP2 PAS M S @ICL-AUX<
+comme [comme] PRP @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART M P @>N
+meilleurs [meilleur] N M P @P<
+méchants [méchant] ADJ M P @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+
+
+
+
+
+
+
+
+
+
+
+
+tywin Lannister [Tywin=Lannister] <*> <heur> PROP @SUBJ> [tywin=Lannister] <*> <heur> PROP @SUBJ>
+/
+enteï [Enteï] <*> <heur> PROP @SUBJ>
+us [us] <np-close> N M S @N<
+large [large] ADJ nG S @N<
+,
+sa [son] <poss> DET F S @>N
+crinière [crinière] <anzo> <anfeat> N F S @SUBJ>
+fluide [fluide] ADJ nG S @N<
+et [et] <co-subj> KC @CO
+ses [son] <poss> DET M P @>N
+traits [trait] <cc-h> <Hprof> <cloH> N M P @SUBJ> [traits] N M P @SUBJ>
+faciaux [facial] ADJ M P @N<
+en [en] <prp> <np-close> PRP @N<
+forme [forme] <H> <f-phys-h> <f-phys> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+couronne [couronne] <Lstar> N F S @P<
+lui [lui] PERS 3S DAT @DAT>
+donnent [donner] <mv> V PR 3P IND @FMV
+une [une] <idf> ART F S @>N
+apparence [apparence] <percep-w> N F S @<ACC
+de [de] <prp> PRP @<PIV
+lion [lion] <Azo> N M S @P<
+convient [convier]<act-s> <mv> V PR 3P IND @FMV
+pour [pour] <prp> PRP @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+sceau [sceau] N M S @P<
+de [de] <sam-> <np-close> PRP @N<
+le [le] <-sam> <def> ART M S @>N
+lion [lion] <Azo> N M S @P<
+d' [d'] <heur> <np-close> N UTR S IDF NOM @N<
+or [or] <cm-mat> <np-long> N M S @N<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+maison [maison] <build> N F S @P<
+lannister [Lannister] <*> <heur> PROP @<SUBJ [lannister] <*> <heur> PROP @<SUBJ
+tywin [Tywin] <*> <heur> PROP @SUBJ> [tywin] <*> <heur> N UTR S IDF NOM @SUBJ>
+était [être] <va+LOC> <mv> <aux> V IMPF 3S IND @FAUX
+considéré [considérer] <vq> <mv> V PCP2 PAS M S @ICL-AUX<
+comme [comme] PRP @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+un [un] <idf> ART M S @>N
+des [des] <art> <idf> ART M P @>N
+meilleurs [meilleur] ADJ M P @>N
+personnages [personnage] <H> <f-phys-h> <f-phys> N M P @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+joffrey Baratheon [Joffrey=Baratheon] <*> <heur> PROP @P< [Joffrey=Baratheon] <*> <heur> N UTR S IDF NOM @P<
+/
+miaouss [Miaouss] <*> <heur> PROP @P< [miaouss] <*> <heur> N UTR S IDF NOM @P<
+si [si] <*> KS @SUB
+cersei Lannister [Cersei=Lannister] <*> <heur> PROP @SUBJ> [cersei=Lannister] <*> <heur> PROP @SUBJ>
+est [être] <va+LOC> <mv> V PR 3S IND @FS-ADVL>
+persan [persan] ADJ M S @<SC
+,
+alors [alors] <adv> <atemp> ADV @<ADVL
+son [son] <poss> DET M S @>N
+fils [fils] <Hfam> N M S @SUBJ>
+joffrey [Joffrey] <*> <np-close> PROP @N< [joffrey] <*> <np-close> PROP @N<
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+le Meowth [Le=Meowth] <heur> N UTR S IDF NOM @<SC
+sous-évolué [sous-évolué] <heur> <np-close> N UTR S IDF NOM @N<
+dans [dans] <*> <prp> PRP @A<
+le [le] <art> <def> <def> ART M S @>N
+sens [sens] <Lsurf> <an> <f> <L> N M S @P<
+où [où] <adv> <rel> <interr> <aloc> ADV @ADVL>
+cersei [Cersei] <*> <heur> PROP @SUBJ>
+gère [gérer] <mv> <np-close> V PR 3S IND @FS-N<
+ses [son] <poss> DET M P @>N
+actions [action] <ac> N F P @<ACC
+moralement [moralement] <adv> ADV @<ADVL
+mauvaises [mauvais] N F P @P<
+avec [avec] <prp> <np-close> PRP @N<
+calme [calme] ADJ nG S @P< [calme] <percep-l> N M S @P<
+et [et] <co-prparg> KC @CO
+calcul [calcul] <act-c> N M S @P<
+,
+joffrey [Joffrey] <*> PROP @SUBJ> [joffrey] <*> PROP @SUBJ>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV @FS-<ACC
+tout [tout] <quant> INDP DET @>N
+ce [ce] <dem> DET M S @>N
+qu' [qu'] <heur> N UTR S IDF NOM @<SC @<ACC
+elle [elle] PERS 3S NOM @SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+pas [pas] <adv> ADV @<ADVL
+alors que [alors=que] <*> <ks> KS @SUB
+les [le] <art> <def> <def> ART nG P @>N
+fans [fan] <Hprof> N nG P @SUBJ>
+ont [avoir] <mv> V PR 3P IND @FS-ADVL>
+peut- [pouvoir] <hyfen> <hyfen> <aux> V PR 3S IND @FAUX [se=pouvoir] <hyfen> <hyfen> V PR 3S IND @FAUX
+être [être] <va+LOC> <mv> <aux> V INF @ICL-AUX<
+voulu [vouloir] <vq> <mv> <aux> V PCP2 PAS M S @ICL-AUX< [se=vouloir] <mv> V PCP2 PAS M S @ICL-AUX<
+sauter [sauter] <mv> V INF @ICL-AUX<
+à travers [à=travers] <prp> PRP @<ADVL
+leurs [leur] DET M P @>N
+écrans [écran] <Lsurf> N M P @P<
+pour [pour] <prp> PRP @<ADVL
+frapper [frapper] <mv> V INF @ICL-P<
+joffrey [Joffrey] <*> PROP @<ACC [joffrey] <*> PROP @<ACC
+à [à] <prp> <sam-> PRP @<ADVL
+le [le] <-sam> <art> <def> <-sam> <def> ART M S @>N
+visage [visage] <anfeat> N M S @P<
+,
+la [le] <art> <def> <def> ART F S @>N
+wisecracking [wisecracking] <heur> N @ADVL [wisecracking] <heur> N M S @SUBJ> [wisecracking] <heur> N UTR S IDF NOM @SUBJ>
+de [de] <prp> <np-close> PRP @N< @ADVL>
+meowth [Meowth] <*> <heur> PROP @P< [meowth] <*> <heur> N UTR S IDF NOM @P<
+a [avoir] <mv> V PR 3S IND @FMV
+peut- [pouvoir] <hyfen> <hyfen> <aux> V PR 3S IND @FAUX [se=pouvoir] <hyfen> <hyfen> V PR 3S IND @FAUX
+être [être] <va+LOC> <mv> <aux> V INF @ICL-AUX<
+entraîné [entraîner] <mv> V PCP2 PAS M S @ICL-AUX<
+un [un] <idf> ART M S @>N
+effet [effet] <ac> N M S @<SUBJ
+similaire [similaire] ADJ nG S @N<
+de [de] <prp> <np-close> PRP @N<
+pokémon [Pokémon] <*> PROP @P<
+rival [rival] <H> <np-close> N M S @N<
+les [le] <*> <art> <def> <def> ART nG P @>N
+fans [fan] <Hprof> N nG P @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+l' [le] PERS 3S ACC @ACC> [la] <fem> PERS 3S ACC @ACC>
+anime [animer] <mv> V PR 3S IND @FMV
+pokémon [Pokémon] <*> PROP @<ACC
+se [se] <refl> PERS 3P ACC @ACC>
+souviendront [souvenir] <vH*> <mv> V FUT 3P IND @FMV [se=souvenir] <mv> V FUT 3P IND @FMV
+que [que] KS @SUB
+le Meowth [Le=Meowth] <heur> N UTR S IDF NOM @SUBJ>
+parlant [parler] <vH*> <mv> V PCP1 @ICL-N<
+de [de] <prp> PRP @<PIV
+team [team] <*> N M S @P<
+rocket [rocket] <*> <np-close> N M S @N<
+avait [avoir] <mv> V IMPF 3S IND @FS-<ACC @FS-<SUBJ
+un [un] <idf> ART M S @>N
+certain [certain] ADJ M S @>N
+dégoût [dégoût] N M S @<ACC
+pour [pour] <prp> PRP @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+persan [persan] N M S @P<
+de [de] <prp> <np-close> PRP @N<
+rocket Boss Giovanni [Rocket=Boss=Giovanni] <*> <heur> PROP @P< [Rocket=Boss=Giovanni] <*> <heur> N UTR S IDF NOM @P<
+
+
+meowth [Meowth] <*> <heur> PROP @SUBJ> [meowth] <*> <heur> N UTR S IDF NOM @SUBJ>
+était [être] <va+LOC> <mv> V IMPF 3S IND @FAUX
+une [une] <idf> ART F S @>N
+version [version] <sem-r> N F S @<SC
+non [non] <adv> ADV @>A
+évoluée [évolué] ADJ F S @N<
+et [et] <co-postnom> KC @CO
+stupide [stupide] ADJ nG S @ACC> @N<
+de [de] <sam-> <np-close> PRP @N<
+le [le] <-sam> <def> ART M S @>N
+chat [chat] <Azo> <Adom> N M S @P<
+digne [digne] ADJ nG S @N<
+assis [asseoir] <mv> <np-close> V PCP2 PAS M P @ICL-N<
+dans [dans] <prp> PRP @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+bureau [bureau] <inst> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+giovanni [Giovanni] <*> PROP @P<
+mais [mais] <*> <adv> KC @CO
+ils [il] PERS 3P NOM @SUBJ>
+avaient [avoir] <mv> V IMPF 3P IND @FMV
+la [le] <art> <def> <def> ART F S @>N
+même [même] DET nG nN @>N
+biologie [biologie] <domain> N F S @<ACC
+
+arya Stark [Arya=Stark] <*> <heur> PROP @SUBJ> [Arya=Stark] <*> <heur> N UTR S IDF NOM @SUBJ>
+/
+greninja [Greninja] <*> <heur> PROP @SUBJ>
+les [le] <*> <art> <def> <def> ART M P @>N
+téléspectateurs [téléspectateur] <Hprof> N M P @SUBJ>
+qui [qui] <rel> INDP NOM @SUBJ>
+ont [avoir] <mv> <aux> <np-close> V PR 3P IND @FS-N<
+quitté [quitter] <mv> V PCP2 AKT M S @ICL-AUX<
+jeu [jeu] <*> N M S @<ACC
+de [de] <sam-> <np-close> PRP @N<
+les [le] <-sam> <def> ART nG P @>N
+trônes [trône] <furn> N M P @P<
+à [à] <prp> <sam-> PRP @<ADVL
+le [le] <-sam> <art> <def> <-sam> <def> ART M S @>N
+début [début] <act-c> <event-c> <ss> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+peut [pouvoir] <aux> V PR 3S IND @FAUX [se=pouvoir] V PR 3S IND @FAUX
+ne [ne] <adv> <setop> ADV @ADVL>
+pas [pas] <adv> ADV @ADVL>
+comprendre [comprendre] <vq> <mv> V INF @ICL-AUX<
+la [le] <art> <def> <def> ART F S @>N
+comparaison [comparaison] <act> <sem-s> N F S @<ACC
+entre [entre] <prp> PRP @<ADVL
+arya [Arya] <*> <fem> PROP @P<
+et [et] <co-prparg> KC @CO
+greninja [Greninja] <*> <heur> PROP @P< @<ACC [greninja] <*> <heur> N UTR S IDF NOM @<ACC @P<
+,
+mais [mais] <co-fin> KC @CO
+le [le] <art> <def> <def> ART M S @>N
+tueur [tueur] <H> N M S @SUBJ>
+de [de] <prp> <np-close> PRP @N<
+the Night King [The=Night=King] <*> <heur> PROP @P< [The=Night=King] <*> <heur> N UTR S IDF NOM @P<
+mérite [mériter] <mv> V PR 3S IND @FMV
+d [d] ADJ M S @SC> @>N @<PRED
+'
+être [être] <va+LOC> <mv> <aux> V INF @ICL-<ACC
+comparé [comparer] <mv> V PCP2 PAS M S @ICL-AUX<
+à [à] <prp> PRP @<ADVL
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @P<
+basé [baser] <vta+LOC> V PCP2 STA M S @N<
+sur [sur] <prp> <np-close> PRP @N< @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+combat [combat] <sit> <occ> N M S @P<
+.
+greninja [Greninja] <*> <heur> PROP @SUBJ> [greninja] <*> <heur> N UTR S IDF NOM @SUBJ>
+est [être] <va+LOC> <aux> V PR 3S IND @FAUX
+devenu [devenir] <mv> V PCP2 AKT M S @ICL-AUX<
+un [un] <idf> ART M S @>N
+favori [favori] <tool> N M S @<SC
+des [des] <art> <idf> ART nG P @>N
+fans [fan] <Hprof> N nG P @P<
+de [de] <prp> <np-close> PRP @N<
+pokémon X & Y [Pokémon=X=&=Y] <*> <heur> PROP @P< [Pokémon=X=&=Y] <*> <heur> N UTR S IDF NOM @P<
+pour [pour] <prp> <np-long> PRP @N< @<ADVL
+sa [son] <poss> DET F S @>N
+conception [conception] <sem-c> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+personnage [personnage] <H> <f-phys-h> <f-phys> N M S @P<
+unique [unique] ADJ nG S @N<
+et [et] <co-prparg> KC @CO
+ses [son] <poss> DET M P @>N
+puissantes [puissant] ADJ F P @>N
+capacités [capacité] <f> N F P @P<
+de [de] <prp> <np-close> PRP @N<
+combat [combat] <sit> <occ> N M S @P<
+.
+après [après] <*> <prp> PRP @ADVL>
+avoir [avoir] <mv> <aux> V INF @ICL-P<
+été [être] <va+LOC> <mv> <aux> V PCP2 AKT M S @ICL-AUX<
+formée [former] <mv> V PCP2 PAS F S @ICL-AUX<
+à [à] <prp> PRP @<ADVL
+bravos [bravo] <*> N M P @P<
+,
+arya [Arya] <*> <fem> <np-close> PROP @APP
+retourne [retourne] <np-close> N F S @N<
+à [à] <prp> <np-long> PRP @N< @<ADVL
+westeros [Westeros] <*> <heur> PROP @P< [westeros] <*> <heur> PROP @P<
+pour [pour] <prp> <np-long> PRP @N< @<ADVL
+s' [se] <sam-> <refl> PERS 3S ACC @ACC>
+attaquer [attaquer] <vH*> <mv> V INF @ICL-P<
+à [à] <prp> PRP @<PIV
+ceux [celui] <dem> INDP M P @P<
+qui [qui] <rel> INDP NOM @SUBJ>
+ont [avoir] <mv> <aux> <np-close> V PR 3P IND @FS-N<
+fait [faire] <vq> <mv> V PCP2 AKT M S @ICL-AUX< [se=faire] <mv> V PCP2 AKT M S @ICL-AUX<
+du [du] <art> <idf> ART M S @>N
+tort [tort] <am> N M S @<ACC
+à [à] <prp> PRP @<ADVL
+sa [son] <poss> DET F S @>N
+famille [famille] <HH> <Hfam> N F S @P<
+.
+ses [son] <*> <poss> DET M P @>N
+capacités [capacité] <f> N F P @SUBJ>
+d' [d'] <heur> <np-close> N UTR S IDF NOM @N<
+assassin [assassin] <Hprof> <np-long> N M S @N<
+avaient [avoir] <mv> V IMPF 3P IND @FMV
+souvent [souvent] <adv> <atemp> <atemp> ADV @<ADVL
+des [des] <art> <idf> ART nG P @>N
+fans [fan] <Hprof> N nG P @<ACC
+qui [qui] <rel> INDP NOM @SUBJ>
+l' [le] PERS 3S ACC @ACC> [la] <fem> PERS 3S ACC @ACC>
+appelaient [appeler] <vH*> <mv> <np-close> V IMPF 3P IND @FS-N<
+un [un] <idf> ART M S @>N
+ninja [ninja] N M S @<ACC
+.
+varys [Varys] <*> <heur> PROP @P< [varys] <*> <heur> N UTR S IDF NOM @P<
+/
+spinarak [Spinarak] <*> <heur> PROP @P< [spinarak] <*> <heur> N UTR S IDF NOM @P<
+si [si] <*> KS @SUB
+varys [Varys] <*> <heur> PROP @SUBJ> [varys] <*> <heur> N UTR S IDF NOM @SUBJ>
+avait [avoir] <mv> <aux> V IMPF 3S IND @FS-ADVL>
+répondu [répondre] <vq> <vH*> <mv> V PCP2 AKT M S @ICL-AUX<
+à [à] <prp> PRP @<PIV
+ses [son] <poss> DET M P @>N
+attentes [attente] <per> N F P @P<
+de [de] <prp> <np-close> PRP @N<
+début [début] <act-c> <event-c> <ss> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+saison [saison] <per> N F S @P<
+en tant que [en=tant=que] <np-close> PRP @N<
+planificateur [planificateur] N M S @P<
+de [de] <prp> <np-close> PRP @N<
+cerveau [cerveau] <anmov> N M S @P<
+,
+il [il] PERS 3S NOM @SUBJ>
+pourrait [pouvoir] <aux> V COND 3S @FAUX [se=pouvoir] V COND 3S @FAUX
+être [être] <va+LOC> <mv> V INF @ICL-AUX<
+un [un] <idf> ART M S @>N
+ariados [ariados] <*> <heur> N UTR S IDF NOM @<SC
+,
+mais [mais] KC @CO
+hélas [hélas] IN @ADVL
+.
+le [le] <*> <art> <def> <def> ART M S @>N
+personnage [personnage] <H> <f-phys-h> <f-phys> N M S @SUBJ>
+surnommé [surnommer] V PCP2 STA M S @N<
+The Spider [The=Spider] <*1> <*2> <heur> N UTR S IDF NOM @SUBJ>
+doit [devoir] <aux> V PR 3S IND @FAUX
+être [être] <va+LOC> <mv> V INF @ICL-AUX<
+un [un] <idf> ART M S @>N
+pokémon [Pokémon] <*> PROP @<SC
+araignée [araignée] <Aent> <np-close> N F S @N<
+.
+varys [Varys] <*> <heur> PROP @SUBJ> [varys] <*> <heur> N UTR S IDF NOM @SUBJ>
+était [être] <va+LOC> <mv> <aux> V IMPF 3S IND @FAUX
+connu [connaître] <mv> V PCP2 PAS M S @ICL-AUX<
+pour [pour] <prp> PRP @<ADVL
+son [son] <poss> DET M S @>N
+look [look] N M S @P<
+unique [unique] ADJ nG S @N<
+et [et] <co-prparg> KC @CO
+son [son] <poss> DET M S @>N
+comportement [comportement] <act-m> N M S @P<
+intrigant [intrigant] ADJ M S @N<
+dans [dans] <prp> <np-close> PRP @N< @<ADVL
+les [le] <art> <def> <def> ART nG P @>N
+premières [premier] NUM @>N
+saisons [saison] <per> N F P @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+,
+mais [mais] <co-fin> KC @CO
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+finalement [finalement] <adv> <atemp> ADV @<ADVL
+devenu [devenir] V PCP2 STA M S @<SC
+un [un] <idf> ART M S @>N
+loyaliste [loyaliste] <f-psych> N M S @SUBJ>
+à [à] <prp> <np-close> PRP @N<
+certains [certain] DET M P @>N [certain] ADJ M P @>N
+idéaux [idéal] <sem-c> N M P @P<
+,
+ce [ce] <dem> DET M S @SUBJ>
+qui [qui] <rel> INDP NOM @SUBJ>
+a [avoir] <mv> <aux> <np-close> V PR 3S IND @FS-N<
+conduit [conduire] <vH*> <mv> V PR 3S IND @FMV
+à [à] <prp> PRP @<PIV
+son [son] <poss> DET M S @>N
+exécution [exécution] <act-m> N F S @P<
+.
+comme [comme] <*> PRP @ADVL>
+varys [Varys] <*> <heur> PROP @P< [varys] <*> <heur> N UTR S IDF NOM @P<
+,
+spinarak [Spinarak] <*> <heur> PROP @SUBJ> [spinarak] <*> <heur> N UTR S IDF NOM @SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+a [avoir] <mv> V PR 3S IND @FMV
+pas [pas] <adv> ADV @<ADVL
+beaucoup [beaucoup] <adv> <aquant> <aquant> ADV @<ACC
+de [de] <prp> PRP @A<
+compétences [compétence] <HH> N F P @P<
+de [de] <prp> <np-close> PRP @N<
+combat [combat] <sit> <occ> N M S @P<
+,
+mais [mais] <co-fin> KC @CO
+est [être] <va+LOC> <mv> <aux> V PR 3S IND @FAUX
+considéré [considérer] <vq> <mv> V PCP2 PAS M S @ICL-AUX<
+comme [comme] PRP @<ADVL
+un [un] <idf> ART M S @>N
+chasseur [chasseur] <Hprof> <con> N M S @P<
+très [très] <adv> <aquant> ADV @>A
+intelligent [intelligent] ADJ M S @N<
+et [et] <co-postnom> KC @CO
+patient [patient] ADJ M S @N<
+.
+varys [Varys] <*> <heur> PROP @SUBJ> [varys] <*> <heur> N UTR S IDF NOM @SUBJ>
+a [avoir] <mv> V PR 3S IND @FMV
+également [également] <adv> <amod> ADV @<ADVL
+livré [livrer] V PCP2 STA M S @<PRED @>N
+certaines [certain] DET F P @P<
+des [des] <art> <idf> ART F P @>N
+meilleures [meilleur] ADJ F P @>N
+brûlures [brûlure] N F P @<ACC
+de [de] <prp> PRP @<PIV
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+.
+hodor [Hodor] <*> <heur> PROP @SUBJ> [hodor] <*> <heur> N UTR S IDF NOM @SUBJ>
+/
+ronflex [Ronflex] <*> <heur> PROP @SUBJ> [ronflex] <*> <heur> N UTR S IDF NOM @SUBJ>
+hodor [Hodor] <*> <heur> <np-close> PROP @N< [hodor] <*> <heur> <np-close> N UTR S IDF NOM @N<
+a [avoir] <mv> <aux> V PR 3S IND @FAUX
+joué [jouer] <vq> <mv> V PCP2 AKT M S @ICL-AUX<
+un [un] <idf> ART M S @>N
+rôle [rôle] <ac> N M S @<ACC
+de [de] <prp> <np-close> PRP @N< @<PIV
+fond [fond] <Lwater> N M S @P<
+pendant [pendant] <prp> PRP @<ADVL
+la [le] <art> <def> <def> ART F S @>N
+majeure [majeur] ADJ F S @>N
+partie [partie] <amount> N F S @P<
+de [de] <prp> <np-close> PRP @N<
+la [le] <art> <def> <def> ART F S @>N
+série [série] <cc-h> N F S @P<
+,
+étant [être] <va+LOC> <mv> V PCP1 @ICL-N< @ICL-<ADVL
+là [là] <adv> <aloc> <aloc> ADV @<SA
+pour [pour] <prp> PRP @<SA
+soutenir [soutenir] <vq> <mv> V INF @ICL-P<
+bran [bran] <*> N M S @<ACC
+dans [dans] <prp> PRP @<PIV
+son [son] <poss> DET M S @>N
+voyage [voyage] <act-c> <ac> N M S @P<
+vers [vers] <prp> PRP @<ADVL
+le [le] <art> <def> <def> ART M S @>N
+nord [nord] <dir> N M S @P<
+.
+ce [ce] <*> <dem> DET M S @F-SUBJ>
+n' [ne] <adv> <setop> ADV @ADVL>
+est [être] <va+LOC> <mv> V PR 3S IND @FMV
+qu [que] N M S @<SC
+'
+à [à] <prp> <np-close> PRP @N< @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+épisode [épisode] <event-c> <act-c> N M S @P<
+de [de] <prp> <np-close> PRP @N<
+sa [son] <poss> DET F S @>N
+mort [mort] <am> N F S @P<
+prématurée [prématuré] ADJ F S @N<
+que [que] KS @SUB
+les [le] <art> <def> <def> ART M P @>N
+téléspectateurs [téléspectateur] <Hprof> N M P @SUBJ>
+ont [avoir] <mv> <aux> V PR 3P IND @FS-<SUBJ
+vu [voir] <vq> <vH*> <mv> V PCP2 AKT M S @ICL-AUX<
+plus de [plus=de] <quant> DET nG P @>N
+trame [trame] <cc-org> <ac> N F S @<ACC
+de [de] <prp> <np-close> PRP @N<
+fond [fond] <Lwater> N M S @P<
+à [à] <prp> <sam-> PRP @<ADVL
+le [le] <-sam> <art> <def> <-sam> <def> ART M S @>N
+personnage [personnage] <H> <f-phys-h> <f-phys> N M S @P<
+.
+hodor [Hodor] <*> <heur> PROP @SUBJ> [hodor] <*> <heur> N UTR S IDF NOM @SUBJ>
+,
+comme [comme] <np-close> PRP @N<PRED
+son [son] <poss> DET M S @>N
+homologue [homologue] N M S @P<
+pokémon Snorlax [Pokémon=Snorlax] <*> <heur> <np-close> PROP @N< [Pokémon=Snorlax] <*> <heur> <np-close> N UTR S IDF NOM @N<
+,
+est [être] <va+LOC> <aux> V PR 3S IND @FAUX
+devenu [devenir] <mv> V PCP2 AKT M S @ICL-AUX<
+un [un] <idf> ART M S @>N
+favori [favori] <tool> N M S @<SC
+des [des] <art> <idf> ART nG P @>N
+fans [fan] <Hprof> N nG P @SUBJ>
+en tant que [en=tant=que] <np-close> PRP @N<
+personnages [personnage] <H> <f-phys-h> <f-phys> N M P @P<
+qui [qui] <rel> INDP NOM @SUBJ>
+semblaient [sembler] <mv> <np-close> V IMPF 3P IND @FS-N<
+paresseux [paresseux] ADJ M S @<SC
+et [et] KC @CO
+ressemblant [ressembler] <mv> V PCP1 @ICL-N< @ICL-ADVL> @ICL-<ADVL
+à [à] <prp> PRP @<PIV
+des [des] <art> <idf> ART M P @>N
+idiots [idiot] <H> N M P @P<
+à [à] <prp> <np-close> PRP @N< @<ADVL
+l' [le] <art> <def> <def> ART M S @>N
+extérieur [extérieur] <f-surf> <L> N M S @P<
+mais [mais] <co-fin> KC @CO
+qui [qui] <rel> INDP NOM @SUBJ>
+étaient [être] <va+LOC> <mv> <np-close> V IMPF 3P IND @FS-N<
+en [en] <prp> PRP @<SA
+fait [fait] <ac> N M S @P<
+très [très] <adv> <aquant> ADV @>A
+puissants [puissant] <np-long> ADJ M P @N<
+et [et] <co-postnom> KC @CO
+fiables [fiable] ADJ nG P @N<
+.
